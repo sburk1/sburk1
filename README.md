@@ -2,8 +2,6 @@
 
 I'm currently learning about making visualizations for data science.
 
-<a href="EDA_493.html">Link 1</a>
-
 <!--
 **sburk1/sburk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
